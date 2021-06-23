@@ -8,14 +8,17 @@ Please see my resume below:
 
 * This seeks to exclude opinionated/wishful thinking, and instead, particularly rests strictly upon the scientific method, the only thing that has thus far enabled progress for humanity.
 
-
-
-
-
-
-
+● 
+● 
+● 
+● 
+● 
+● 
+● 
+● 
+● 
 Signature
-God Bennett ([Name legally changed from: Jordan Micah Bennett](https://mail.google.com/mail/u/1/#settings/general)):
+
 
 God Bennett ([Name legally changed from: Jordan Micah Bennett](https://www.researchgate.net/publication/352336263_Why_are_humans_the_only_Gods) ):
 
@@ -35,17 +38,17 @@ actually hold a conversation with.
 
 ● Author of [NVIDIA-featured Ai based pothole detector](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano) .
 
-○ NVIDIA is a multi-billion dollar Artificial intelligence involved company.
+* NVIDIA is a multi-billion dollar Artificial intelligence involved company.
 
-○ [NVIDIA's technology has been central to a large degree of humanity's progress so far.](https://www.youtube.com/watch?v=GWL1HNHDSq4)
+* [NVIDIA's technology has been central to a large degree of humanity's progress so far.](https://www.youtube.com/watch?v=GWL1HNHDSq4)
 
 ● Author of the weekly Jamaican-newspaper Gleaner column:
 
-○ "[Artificial Intelligence could aid economic stimulation](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could) ".
+    * "[Artificial Intelligence could aid economic stimulation](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could) ".
 
-○ "[Why Jamaica Urgently Needs A Minister Of Artificial Intelligence](http://jamaica-gleaner.com/article/news/20191229/why-jamaica-urgently-needs-minister-artificial-intelligence) ".
+    * "[Why Jamaica Urgently Needs A Minister Of Artificial Intelligence](http://jamaica-gleaner.com/article/news/20191229/why-jamaica-urgently-needs-minister-artificial-intelligence) ".
 
-■ See also: [Why USA urgently needs a “Secretary of Artificial Intelligence” Cabinet](https://medium.com/@jordanmicahbennett/why-usa-needs-a-secretary-of-artificial-intelligence-cabinet-political-role-cec2628bfc11)
+    * See also: [Why USA urgently needs a “Secretary of Artificial Intelligence” Cabinet](https://medium.com/@jordanmicahbennett/why-usa-needs-a-secretary-of-artificial-intelligence-cabinet-political-role-cec2628bfc11)
 
 [Member Political Role](https://medium.com/@jordanmicahbennett/why-usa-needs-a-secretary-of-artificial-intelligence-cabinet-political-role-cec2628bfc11)
 
