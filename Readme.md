@@ -9,15 +9,16 @@ Please see my resume below:
 * This seeks to exclude opinionated/wishful thinking, and instead, particularly rests strictly upon the scientific method, the only thing that has thus far enabled progress for humanity.
 
 ● 
+
 ● 
+
 ● 
+
 ● 
+
 ● 
-● 
-● 
-● 
-● 
-Signature
+
+# Signature
 
 
 God Bennett ([Name legally changed from: Jordan Micah Bennett](https://www.researchgate.net/publication/352336263_Why_are_humans_the_only_Gods) ):
@@ -44,11 +45,11 @@ actually hold a conversation with.
 
 ● Author of the weekly Jamaican-newspaper Gleaner column:
 
-    * "[Artificial Intelligence could aid economic stimulation](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could) ".
+  * "[Artificial Intelligence could aid economic stimulation](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could) ".
 
-    * "[Why Jamaica Urgently Needs A Minister Of Artificial Intelligence](http://jamaica-gleaner.com/article/news/20191229/why-jamaica-urgently-needs-minister-artificial-intelligence) ".
+  * "[Why Jamaica Urgently Needs A Minister Of Artificial Intelligence](http://jamaica-gleaner.com/article/news/20191229/why-jamaica-urgently-needs-minister-artificial-intelligence) ".
 
-    * See also: [Why USA urgently needs a “Secretary of Artificial Intelligence” Cabinet](https://medium.com/@jordanmicahbennett/why-usa-needs-a-secretary-of-artificial-intelligence-cabinet-political-role-cec2628bfc11)
+  * See also: [Why USA urgently needs a “Secretary of Artificial Intelligence” Cabinet](https://medium.com/@jordanmicahbennett/why-usa-needs-a-secretary-of-artificial-intelligence-cabinet-political-role-cec2628bfc11)
 
 [Member Political Role](https://medium.com/@jordanmicahbennett/why-usa-needs-a-secretary-of-artificial-intelligence-cabinet-political-role-cec2628bfc11)
 
