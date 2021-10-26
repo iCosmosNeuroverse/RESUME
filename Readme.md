@@ -1,6 +1,6 @@
 Please see my resume below:
 
-[God's resume on google drive.](https://drive.google.com/file/d/15mU32guXZzoAyDtyRqGyke0cYd6z9beD/view)
+[God's resume on google drive.](https://drive.google.com/file/d/1q6Q_EnMT5AMwI0aT91Zac1t7GNsx7Zp6/view?usp=sharing)
 
 * This resume mostly concerns artificial intelligence items.
 
