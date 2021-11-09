@@ -23,7 +23,7 @@ Please see my resume below:
 
 God Bennett ([Name legally changed from: Jordan Micah Bennett](https://www.researchgate.net/publication/352336263_Why_are_humans_the_only_Gods) ):
 
-● Manager of Artificial Intelligence at [AICE](https://www.aiceafrica.com/) via [AdaLabsAfrica](https://adalabsafrica.com/) (bennet@adalabsafrica.com)
+● Lead Lecturer of "Universal Ai Diploma" at [ASTIT](https://www.astitnt.com) & Manager of Ai at [AICE](https://www.aiceafrica.com/) via [AdaLabsAfrica](https://adalabsafrica.com/) (bennet@adalabsafrica.com)
 
 ● Author of "[We are the only Gods responsible for solving our own problems.](https://www.researchgate.net/publication/352336263_Why_are_humans_the_only_Gods) "
 
