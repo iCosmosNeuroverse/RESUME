@@ -2,7 +2,7 @@ Portfolio: http://g0d.rf.gd
 
 Resume: [God's resume on google drive.](https://drive.google.com/file/d/16xNhZGFK--kQMLyNSPPC9JRN4P8Dn-ri/view)
 
-Core system of operation: [My 2015 invention, "non-beliefism"](https://non-beliefism.github.io)
+Core system of operation: [My 2015 invention, "non-beliefism"](https://non-beliefism.github.io) 
 
 * This resume mostly concerns artificial intelligence items.
 
