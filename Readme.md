@@ -2,6 +2,8 @@ Portfolio: http://g0d.rf.gd
 
 Resume: [God's resume on google drive.](https://drive.google.com/file/d/16xNhZGFK--kQMLyNSPPC9JRN4P8Dn-ri/view)
 
+Core system of operation: [My 2015 invention, "non-beliefism"](non-beliefism.github.io)
+
 * This resume mostly concerns artificial intelligence items.
 
 * The resume is actually a collection of (or contains links to) some of my most profound thoughts, including ones about where the human species is reasonably/objectively heading, which happens to be related to artificial intelligence.
