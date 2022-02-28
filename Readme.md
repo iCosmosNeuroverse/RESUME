@@ -4,7 +4,7 @@ Resume: [God's resume on google drive.](https://drive.google.com/file/d/1zSHREKF
 
 Core system of operation: [My 2015 invention, "non-beliefism"](https://non-beliefism.github.io) 
 
-My local newspaper interview by Paul H Williams: [An atheist named himself God](https://jamaica-gleaner.com/article/news/20220227/atheist-named-himself-god)
+My local newspaper interview by [Paul](https://jamaica-gleaner.com/authors/paul-h-williams-sunday-gleaner-writer) H Williams: [An atheist named himself God](https://jamaica-gleaner.com/article/news/20220227/atheist-named-himself-god)
 
 * This resume mostly concerns artificial intelligence items.
 
