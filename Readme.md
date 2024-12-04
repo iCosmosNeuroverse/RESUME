@@ -1,14 +1,9 @@
 Portfolio[1]: https://g0dengineer.github.io/
 
-Portfolio[2]: http://g0d.rf.gd
-
 Resume: [God's resume on google drive.](https://drive.google.com/file/d/1zSHREKFEq0M-F4iC-v_W0JE8DzwGyPIk/view)
 
-Core system of operation: [My 2015 invention, "non-beliefism"](https://non-beliefism.github.io) 
 
-My local newspaper interview by [Paul](https://jamaica-gleaner.com/authors/paul-h-williams-sunday-gleaner-writer) H Williams: [An atheist named himself God](https://jamaica-gleaner.com/article/news/20220227/atheist-named-himself-god)
-
-* This resume mostly concerns artificial intelligence items.
+* This resume mostly concerns artificial intelligence items, though I'm passionate about code overall.
 
 * The resume is actually a collection of (or contains links to) some of my most profound thoughts, including ones about where the human species is reasonably/objectively heading, which happens to be related to artificial intelligence.
 
@@ -27,11 +22,9 @@ My local newspaper interview by [Paul](https://jamaica-gleaner.com/authors/paul-
 # Signature
 
 
-God Bennett ([Name legally changed from: Jordan Micah Bennett](https://www.researchgate.net/publication/352336263_Why_are_humans_the_only_Gods) ):
+God Bennett
 
 ● Lead Lecturer of "Universal Ai Diploma" at [ASTIT](https://www.astitnt.com) & Manager of Ai at [AICE](https://www.aiceafrica.com/) via [AdaLabsAfrica](https://adalabsafrica.com/) (bennet@adalabsafrica.com)
-
-● Author of "[We are the only Gods responsible for solving our own problems.](https://www.researchgate.net/publication/352336263_Why_are_humans_the_only_Gods) "
 
 ● Author of "[World's first open source Covid19-Xray Artificial Intelligence/Neural Network diagnosis](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md)
 
@@ -69,6 +62,3 @@ actually hold a conversation with.
 
 [first university-like initiative](https://medium.com/@jordanmicahbennett/worlds-1st-university-like-artificial-intelligence-initiative-launched-somewhat-in-jamaica-d0deb56a4495) ).
 
-● God is also the author of the hypothesis: [Why is the purpose of human life to create Artificial](https://www.researchgate.net/publication/319235750_Why_is_the_purpose_of_human_life_to_create_Artificial_General_Intelligence)
-
-[General Intelligence?](https://www.researchgate.net/publication/319235750_Why_is_the_purpose_of_human_life_to_create_Artificial_General_Intelligence)
