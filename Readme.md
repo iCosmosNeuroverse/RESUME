@@ -15,6 +15,12 @@ My latest personal project - A scratch designed/made self driving hypercar proje
 
 
 
+● 
+
+● 
+
+● 
+
 
 * This resume mostly concerns artificial intelligence items, though I'm passionate about code overall.
 
