@@ -1,6 +1,19 @@
 Portfolio[1]: https://g0dengineer.github.io/
 
-Resume: [God's resume on google drive.](https://drive.google.com/file/d/1zSHREKFEq0M-F4iC-v_W0JE8DzwGyPIk/view)
+Resume: [GodQuest's resume on google drive.](https://drive.google.com/file/d/1zSHREKFEq0M-F4iC-v_W0JE8DzwGyPIk/view)
+
+My latest personal project - A scratch designed/made self driving hypercar project (Work in progress) for educational ecosystem:
+
+
+![CGI_1](https://github.com/g0dEngineer/GOD_RESUME/blob/main/CGI_1.png?raw=true)
+
+![THUMB_DIO](https://github.com/g0dEngineer/GOD_RESUME/blob/main/THUMB_DIO.jpg?raw=true)
+
+* 3d model (designed from scratch  by G. Bennett with African, Jamaican design cues): https://skfb.ly/oJtSB
+* Image (2) Actual hypercar body build from scratch by G. Bennett: https://youtu.be/B0bdRMAGWSg
+* Breakdown: https://medium.com/@theariadio/aice-x-lucciola-ev-ai-education-ecosystem-8eff2f59925a
+
+
 
 
 * This resume mostly concerns artificial intelligence items, though I'm passionate about code overall.
