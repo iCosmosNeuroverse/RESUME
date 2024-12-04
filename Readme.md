@@ -8,13 +8,16 @@ My latest personal project - A scratch designed/made self driving hypercar proje
 
 ![THUMB_DIO](https://github.com/g0dEngineer/GOD_RESUME/blob/main/THUMB_DIO.jpg?raw=true)
 
-* 3d model (designed from scratch  by G. Bennett with African, Jamaican design cues): https://skfb.ly/oJtSB
+* Image (1) 3d model (designed from scratch  by G. Bennett with African, Jamaican design cues): https://skfb.ly/oJtSB
 * Image (2) Actual hypercar body build from scratch by G. Bennett: https://youtu.be/B0bdRMAGWSg
 * Breakdown: https://medium.com/@theariadio/aice-x-lucciola-ev-ai-education-ecosystem-8eff2f59925a
 
 
 
-
+|
+|
+|
+|
 
 
 
@@ -28,6 +31,13 @@ My latest personal project - A scratch designed/made self driving hypercar proje
 
 
 
+
+
+
+|
+|
+|
+|
 
 
 
