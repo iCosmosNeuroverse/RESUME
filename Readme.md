@@ -1,4 +1,3 @@
-Portfolio[1]: https://g0dengineer.github.io/
 
 Resume: [GodQuest's resume on google drive.](https://drive.google.com/file/d/1zSHREKFEq0M-F4iC-v_W0JE8DzwGyPIk/view)
 
