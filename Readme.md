@@ -1,5 +1,6 @@
-
 Resume: [GodQuest's resume on google drive.](https://drive.google.com/file/d/1zSHREKFEq0M-F4iC-v_W0JE8DzwGyPIk/view)
+
+Portfolio page: https://github.com/g0dEngineer/g0dEngineer.github.io
 
 My latest personal project - A scratch designed/made self driving hypercar project (Work in progress) for educational ecosystem:
 
@@ -11,6 +12,7 @@ My latest personal project - A scratch designed/made self driving hypercar proje
 * Image (1) 3d model (designed from scratch  by G. Bennett with African, Jamaican design cues): https://skfb.ly/oJtSB
 * Image (2) Actual hypercar body build from scratch by G. Bennett: https://youtu.be/B0bdRMAGWSg
 * Breakdown: https://medium.com/@theariadio/aice-x-lucciola-ev-ai-education-ecosystem-8eff2f59925a
+* 3d website: https://theomniautomobil.github.io/
 
 
 
