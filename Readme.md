@@ -14,6 +14,13 @@ My latest personal project - A scratch designed/made self driving hypercar proje
 * Breakdown: https://medium.com/@theariadio/aice-x-lucciola-ev-ai-education-ecosystem-8eff2f59925a
 * 3d website: https://theomniautomobil.github.io/
 
+Please see also one of my own voiced courses re Ai with [300+ students](https://www.udemy.com/course/human-x-ai-dataprotection/?):
+
+![THUMB_HUMAN_X_AI](https://github.com/g0dEngineer/GODQUEST_RESUME/blob/main/human%20xai.png?raw=true)
+
+
+
+
 
 
 |
