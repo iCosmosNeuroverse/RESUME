@@ -9,8 +9,10 @@ My latest personal project - A scratch designed/made self driving hypercar proje
 
 ![THUMB_DIO](https://github.com/g0dEngineer/GOD_RESUME/blob/main/THUMB_DIO.jpg?raw=true)
 
+![THUMB_DIO_FRONT_SUSPENSION](https://github.com/g0dEngineer/GOD_RESUME/blob/main/THUMB_DIO_FRONT_SUSPENSION.jpg?raw=true)
+
 * Image (1) 3d model (designed from scratch  by G. Bennett with African, Jamaican design cues): https://skfb.ly/oJtSB
-* Image (2) Actual hypercar body build from scratch by G. Bennett: https://youtu.be/B0bdRMAGWSg
+* Image (2) and (3) Actual hypercar body build from scratch by G. Bennett: https://youtu.be/B0bdRMAGWSg
 * Breakdown: https://medium.com/@theariadio/aice-x-lucciola-ev-ai-education-ecosystem-8eff2f59925a
 * 3d website: https://theomniautomobil.github.io/
 
