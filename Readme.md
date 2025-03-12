@@ -9,7 +9,7 @@ My latest personal project - A scratch designed/made self driving hypercar proje
 
 ![THUMB_DIO](https://github.com/g0dEngineer/GOD_RESUME/blob/main/THUMB_DIO.jpg?raw=true)
 
-![THUMB_DIO_FRONT_SUSPENSION](https://github.com/g0dEngineer/GOD_RESUME/blob/main/THUMB_DIO_FRONT_SUSPENSION.png?raw=true)
+![THUMB_DIO 2](https://github.com/g0dEngineer/GODQUEST_RESUME/blob/main/DIO_LUCCIOLA_COVER_FEB_20.png?raw=true)
 
 * Image (1) 3d model (designed from scratch  by G. Bennett with African, Jamaican design cues): https://skfb.ly/oJtSB
 * Image (2) and (3) Actual hypercar body build from scratch by G. Bennett:
