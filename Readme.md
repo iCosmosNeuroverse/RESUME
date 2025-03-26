@@ -1,15 +1,15 @@
-Resume: [GodQuest's resume on google drive.](https://drive.google.com/file/d/1zSHREKFEq0M-F4iC-v_W0JE8DzwGyPIk/view)
+Resume: [Cosmos Bennett's resume on google drive.](https://drive.google.com/file/d/1zSHREKFEq0M-F4iC-v_W0JE8DzwGyPIk/view)
 
-Portfolio page: https://g0dengineer.github.io/
+Portfolio page: https://iCosmosNeuroverse.github.io/
 
 My latest personal project - A scratch designed/made self driving hypercar project (Work in progress) for educational ecosystem:
 
 
-![CGI_1](https://github.com/g0dEngineer/GOD_RESUME/blob/main/CGI_1.png?raw=true)
+![CGI_1](https://github.com/iCosmosNeuroverse/RESUME/blob/main/CGI_1.png?raw=true)
 
-![THUMB_DIO](https://github.com/g0dEngineer/GOD_RESUME/blob/main/THUMB_DIO.jpg?raw=true)
+![THUMB_DIO](https://github.com/iCosmosNeuroverse/RESUME/blob/main/THUMB_DIO.jpg?raw=true)
 
-![THUMB_DIO 2](https://github.com/g0dEngineer/GODQUEST_RESUME/blob/main/DIO_LUCCIOLA_COVER_FEB_20.png?raw=true)
+![THUMB_DIO 2](https://github.com/iCosmosNeuroverse/RESUME/blob/main/DIO_LUCCIOLA_COVER_FEB_20.png?raw=true)
 
 * Image (1) 3d model (designed from scratch  by G. Bennett with African, Jamaican design cues): https://skfb.ly/oJtSB
 * Image (2) and (3) Actual hypercar body build from scratch by G. Bennett:
@@ -20,7 +20,7 @@ My latest personal project - A scratch designed/made self driving hypercar proje
 
 Please see also one of my own voiced courses re Ai with [300+ students](https://www.udemy.com/course/human-x-ai-dataprotection/?):
 
-![THUMB_HUMAN_X_AI](https://github.com/g0dEngineer/GODQUEST_RESUME/blob/main/human%20xai.png?raw=true)
+![THUMB_HUMAN_X_AI](https://github.com/iCosmosNeuroverse/RESUME/blob/main/human%20xai.png?raw=true)
 
 
 
@@ -67,7 +67,7 @@ Please see also one of my own voiced courses re Ai with [300+ students](https://
 # Signature
 
 
-God Bennett
+Cosmos Bennett 
 
 ● Lead Lecturer of "Universal Ai Diploma" at [ASTIT](https://www.astitnt.com) & Manager of Ai at [AICE](https://www.aiceafrica.com/) via [AdaLabsAfrica](https://adalabsafrica.com/) (bennet@adalabsafrica.com)
 
