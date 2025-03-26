@@ -11,8 +11,8 @@ My latest personal project - A scratch designed/made self driving hypercar proje
 
 ![THUMB_DIO 2](https://github.com/iCosmosNeuroverse/RESUME/blob/main/DIO_LUCCIOLA_COVER_FEB_20.png?raw=true)
 
-* Image (1) 3d model (designed from scratch  by G. Bennett with African, Jamaican design cues): https://skfb.ly/oJtSB
-* Image (2) and (3) Actual hypercar body build from scratch by G. Bennett:
+* Image (1) 3d model (designed from scratch  by Cosmos Bennett with African, Jamaican design cues): https://skfb.ly/oJtSB
+* Image (2) and (3) Actual hypercar body build from scratch by Cosmos Bennett:
      * Body: https://youtu.be/B0bdRMAGWSg
      * Body + Suspension: https://youtu.be/X2BfFdcjMq0
 * Breakdown: https://medium.com/@theariadio/aice-x-lucciola-ev-ai-education-ecosystem-8eff2f59925a
