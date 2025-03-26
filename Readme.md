@@ -1,4 +1,4 @@
-Resume: [Cosmos Bennett's resume on google drive.](https://drive.google.com/file/d/1zSHREKFEq0M-F4iC-v_W0JE8DzwGyPIk/view)
+Resume: [Cosmos Bennett's resume on google drive.](https://drive.google.com/file/d/1kRsov1S3w4UOuEFQ5u1Kcl3l61if10Mq/view?usp=sharing)
 
 Portfolio page: https://iCosmosNeuroverse.github.io/
 
