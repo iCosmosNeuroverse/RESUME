@@ -4,6 +4,8 @@ Portfolio page: https://iCosmosNeuroverse.github.io/
 
 My latest personal project - A scratch designed/made self driving hypercar project (Work in progress) for educational ecosystem:
 
+See the gleaner article: https://jamaica-gleaner.com/article/news/20250409/bold-step-towards-future-ready-education
+![CGI_1](https://github.com/iCosmosNeuroverse/RESUME/blob/main/GLEANER_ARTICLE_SCREENSHOT_COLLAGE.png]
 
 ![CGI_1](https://github.com/iCosmosNeuroverse/RESUME/blob/main/CGI_1.png?raw=true)
 
